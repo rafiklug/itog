@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <meta charset="utf-8">
+  <title>Тестовый сайт</title>
+ </head>
+ <body>
+  <h2><p align="center">Создал сайт в Ubuntu</p></h2>
+  <p align="center"><img src="1.jpg" width="300" height="200" alt="smile-face"></p>
+ </body>
+</html>
+
